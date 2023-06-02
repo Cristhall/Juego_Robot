@@ -10,4 +10,4 @@
                            `._\(___`.
                              '---' _)/
                                   `-'
-             Presione cualquier tecla para continuar   
+             Presione una letra y enter para continuar   

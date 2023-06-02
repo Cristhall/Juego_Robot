@@ -124,57 +124,58 @@
 	<iostream>
 	<fstream>
 
-1685665096 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\prograuno2k23\juegos\robot - final\main.cpp
-	<iostream>
-	"player.h"
-	"mapcell.h"
-	"gamemap.h"
-
-1685665096 c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\prograuno2k23\juegos\robot - final\include\player.h
-
-1685665096 c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\prograuno2k23\juegos\robot - final\include\mapcell.h
-
-1685665096 c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\prograuno2k23\juegos\robot - final\include\gamemap.h
-	"mapcell.h"
-
-1685680860 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\prograuno2k23\juegos\robot - final\src\gamemap.cpp
-	"gamemap.h"
-	<iostream>
-	<fstream>
-
-1685665096 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\prograuno2k23\juegos\robot - final\src\mapcell.cpp
+1685669613 source:c:\users\fermg\onedrive\escritorio\umg\tercer semestre\programaciÓn i\programas\repositorio\prograuno2k23\juegos\robot - final\src\mapcell.cpp
 	"mapcell.h"
 	<iostream>
 
-1685665392 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\prograuno2k23\juegos\robot - final\src\player.cpp
+1685669613 c:\users\fermg\onedrive\escritorio\umg\tercer semestre\programaciÓn i\programas\repositorio\prograuno2k23\juegos\robot - final\include\mapcell.h
+
+1685669613 source:c:\users\fermg\onedrive\escritorio\umg\tercer semestre\programaciÓn i\programas\repositorio\prograuno2k23\juegos\robot - final\src\player.cpp
 	"player.h"
 	<iostream>
 	<fstream>
 
-1685686748 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\juego_robot\robot - final\main.cpp
+1685669613 c:\users\fermg\onedrive\escritorio\umg\tercer semestre\programaciÓn i\programas\repositorio\prograuno2k23\juegos\robot - final\include\player.h
+
+1685669984 source:c:\users\fermg\onedrive\escritorio\umg\tercer semestre\programaciÓn i\programas\repositorio\prograuno2k23\juegos\robot - final\main.cpp
 	<iostream>
 	"player.h"
 	"mapcell.h"
 	"gamemap.h"
 
-1685665096 c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\juego_robot\robot - final\include\player.h
-
-1685665096 c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\juego_robot\robot - final\include\mapcell.h
-
-1685687256 c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\juego_robot\robot - final\include\gamemap.h
+1685669613 c:\users\fermg\onedrive\escritorio\umg\tercer semestre\programaciÓn i\programas\repositorio\prograuno2k23\juegos\robot - final\include\gamemap.h
 	"mapcell.h"
 
-1685687191 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\juego_robot\robot - final\src\gamemap.cpp
+1685669984 source:c:\users\fermg\onedrive\escritorio\umg\tercer semestre\programaciÓn i\programas\repositorio\prograuno2k23\juegos\robot - final\src\gamemap.cpp
 	"gamemap.h"
 	<iostream>
 	<fstream>
 
-1685665096 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\juego_robot\robot - final\src\mapcell.cpp
+1685694722 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\personales\repositorio_mafer\tareasprogra1.9959-22-7981\robot - final\main.cpp
+	<iostream>
+	"player.h"
+	"mapcell.h"
+	"gamemap.h"
+
+1685687374 c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\personales\repositorio_mafer\tareasprogra1.9959-22-7981\robot - final\include\player.h
+
+1685687374 c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\personales\repositorio_mafer\tareasprogra1.9959-22-7981\robot - final\include\mapcell.h
+
+1685694028 c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\personales\repositorio_mafer\tareasprogra1.9959-22-7981\robot - final\include\gamemap.h
 	"mapcell.h"
 	<iostream>
 
-1685665392 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\juego_robot\robot - final\src\player.cpp
+1685687374 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\personales\repositorio_mafer\tareasprogra1.9959-22-7981\robot - final\src\mapcell.cpp
+	"mapcell.h"
+	<iostream>
+
+1685687374 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\personales\repositorio_mafer\tareasprogra1.9959-22-7981\robot - final\src\player.cpp
 	"player.h"
+	<iostream>
+	<fstream>
+
+1685694722 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\personales\repositorio_mafer\tareasprogra1.9959-22-7981\robot - final\src\gamemap.cpp
+	"gamemap.h"
 	<iostream>
 	<fstream>
 
